@@ -1,4 +1,4 @@
-name: Terraform Plan
+name: Kyler's Terraform Plan
 description: Terraform Plan, stages files for apply
 inputs:
   SSH_KEY: 
